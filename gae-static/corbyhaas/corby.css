@@ -1,0 +1,34 @@
+body {
+  background: url('corbyhaaslogo.jpg');
+  font-family: 'Coming Soon', arial, serif;
+  font-size: large;
+  line-height: 150%;
+}
+
+#content {
+  text-align: center;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #ffffff;
+  border: thick black solid;
+  padding: 50px;
+  width: 600px;
+}
+
+#header {
+  font-size: xx-large;
+  font-weight: bold;
+  margin: 20px;
+}
+#header span { border-bottom: thin black solid; }
+#datetime { }
+#plug { }
+#venue { }
+#venue a, #venue a.visited {
+  text-decoration: none;
+  color: blue;
+}
+#address { }
+#price { font-size: x-large; }
+#likebox { margin-top: 20px; }
