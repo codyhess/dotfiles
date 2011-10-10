@@ -22,6 +22,7 @@ body {
   margin: 20px;
 }
 #header span { border-bottom: thin black solid; }
+#price span { border-bottom: thin black solid; }
 #datetime { }
 #plug { }
 #venue { }
@@ -32,3 +33,9 @@ body {
 #address { }
 #price { font-size: x-large; }
 #likebox { margin-top: 20px; }
+
+#faq li {
+  list-style-type: none;
+  text-align: left;
+}
+/* #faq h3 { border-top: thin black solid; */
