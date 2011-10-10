@@ -20,6 +20,8 @@
     map <c-j> <c-w>j
     map <c-k> <c-w>k
     " indent and dedent from insert mode
+    " ctrl-d and ctrl-t do the same thing, leaving this here for
+    " habit
     imap <Leader><< <Esc><<A
     imap <Leader>>> <Esc>>>A
 " }
