@@ -17,12 +17,15 @@ body {
   width: 600px;
 }
 
-#header {
+#header, #subheader {
   font-size: xx-large;
   font-weight: bold;
-  margin: 20px;
+  margin: 0.3em;
 }
-#header span { border-bottom: thin black solid; }
+#subheader {
+  font-size: large;
+}
+#subheader span { border-bottom: thin black solid; }
 #price span { border-bottom: thin black solid; }
 #datetime { }
 #plug { }
