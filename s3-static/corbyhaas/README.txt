@@ -2,10 +2,7 @@
 corbyhaas.com
 =============
 
-Information regarding my open mike in Long Island City.
-
-Deployed to free Google App Engine.
-    * See ../app.yaml for configuration.
+Information for 'Corby Haas' open mic in Long Island City.
 
 
 Layout
@@ -42,15 +39,12 @@ Version 2.0 (future)
 E - Menu: FAQ, Bio, Fan Art, #corbyhaas
 D - async update FAQ, Bio, Fan Art, Twitter feed
 
-Content
--------
 
-Version 1.5 (current)
-* add Johnny Vegas name to Title
-
-Version 1.6 (future)
-* experiment with moving analytics code to header
-    * answer my own SE Webmaster's question
-
-Version 1.7 (future)
-* migrate to Amazon S3 static serving
+Change Log
+----------
+* 1.5
+    - add Johnny Vegas name to Title
+* 1.6
+    - experiment with moving analytics code to header
+* 1.7 (future)
+    - migrate to Amazon S3 static serving
