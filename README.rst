@@ -9,9 +9,6 @@
 .profile
     bash (shell) configuration
 
-gae-static/
-    non-interactive web sites
-
 bin/
     shell scripts
 
