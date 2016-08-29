@@ -24,7 +24,7 @@
 " text formatting/layout {
     " new line at 80 columns
     set textwidth=80
-    " 4 spaces instead of tabs
+    " 2 spaces instead of tabs
     set expandtab       " spaces not tabs
     set tabstop=2       " tab indent width
     set shiftwidth=2    " auto-indent width
