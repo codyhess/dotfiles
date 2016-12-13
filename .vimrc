@@ -55,3 +55,7 @@
 " line numbers {
     set number
 " }
+
+"  kill swap {
+    set noswapfile
+"  }
