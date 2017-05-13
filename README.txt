@@ -10,8 +10,8 @@ You'll want to adjust `set textwidth=70` to whatever is
 appropriate for your machine's terminal.
 
 # .tmux.conf
-The CTRL-hjkl pane-swapping binds might conflict with
-common vim pane-swapping binds, so be wary.
+The CTRL-hjkl pane-switching binds might conflict with
+common vim pane-switching binds, so be wary.
 
 # .profile
 Ubuntu gives you a billion .bash* and seems to read
