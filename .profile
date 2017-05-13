@@ -1,12 +1,19 @@
-# PROMPTS
+###########
+# PROMPTS #
+###########
 
-# path to pwd
+# path to PWD
 # export PS1="\w $ "
 
-# HH:MM time and pwd
+# path to CWD
+# export PS1="\W $ "
+
+# HH:MM time and PWD
 # export PS1="\A \W $ "
 
-# OTHER
+#########
+# OTHER #
+#########
 
 # add ~/bin to PATH
 # PATH=$PATH:$HOME/bin
