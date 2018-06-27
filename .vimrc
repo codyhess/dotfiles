@@ -26,7 +26,7 @@
     "set textwidth=80
     set textwidth=70
     " 2 spaces instead of tabs
-    set expandtab       " spaces not tabs
+    " set expandtab       " spaces not tabs
     set tabstop=2       " tab indent width
     set shiftwidth=2    " auto-indent width
     set smartindent
